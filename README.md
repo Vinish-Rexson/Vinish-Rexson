@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vinish-Rexson.Vinish-Rexson" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vinish+Rexson!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Full+Stack+Developer!;Fluent+in+the+language+of+web;Knows+Python+inside+and+out;+Front+to+back,+I've+got+your+stack+😎;+Model+tuning+Master;+Creative+coder+with+a+passion+for+play;+Still+learning+more+to+play+😁;" />
 </h1>
 
 
