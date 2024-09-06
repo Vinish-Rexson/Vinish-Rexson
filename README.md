@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Vinish-Rexson
-- 👀 I’m interested in Web Development/hackathons
-- 🌱 I’m currently learning Django/React
-- 💞️ I’m looking to collaborate on Hackathons
-- 📫 How to reach me @vinishrexson
-- 😄 Pronouns: Winner
-- ⚡ Fun fact: I'm using Github for years but today only I added a readme file
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<!---
-Vinish-Rexson/Vinish-Rexson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
