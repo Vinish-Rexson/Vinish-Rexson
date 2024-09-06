@@ -14,4 +14,5 @@
   
   <br/><br/><br/>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vinish-rexson)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vinish-Rexson&theme=react&hide_border=true" alt="GitHub Streak" /></a>
