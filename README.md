@@ -16,3 +16,4 @@
 </div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vinish-Rexson&theme=react&hide_border=true" alt="GitHub Streak" /></a>
+![Vinish-Rexson's Stats](https://github-readme-stats.vercel.app/api?username=Vinish-Rexson&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
