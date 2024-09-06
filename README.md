@@ -12,8 +12,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vinish-Rexson&theme=react&hide_border=true" alt="GitHub Streak" /></a>
-![Vinish-Rexson's Stats](https://github-readme-stats.vercel.app/api?username=Vinish-Rexson&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://github.com/Vinish-Rexson/stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Vinish-Rexson/stats/blob/master/generated/overview.svg#gh-light-mode-only)
