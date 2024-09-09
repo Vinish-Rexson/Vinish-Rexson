@@ -5,11 +5,12 @@
 </h1>
 
 <img align="right" height="250px" width="425px" alt="GIF" src="https://github.com/user-attachments/assets/24bdd6b9-a9b7-4539-a0af-8a5bf5af36dc" />
-<h3 align="left"> I am Vinish Rexson <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40px" width="40px" /></h4> 
-• A Computer Engineering Student @ Fr.CRCE <br/>
-• Currently working on some of my cool side projects based on Web Development. <br/>
-• Webathon 2024 Winner 🏆 <br/>
-• I'm currently looking for opportunities. I love to learn and contribute in any and every possible way. <br/>
+<h3 align="left"> Hey, I'm Vinish Rexson! <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40px" width="40px" /></h4> 
+• Computer Engineering student @ Fr. CRCE, with a passion for creating impactful web solutions <br/>
+• Currently building some cool web projects that push the boundaries of modern development <br/>
+• Proud winner of Webathon 2024 🏆 <br/>
+• Actively seeking opportunities to learn, grow, and collaborate on innovative ideas <br/>
+• Lifelong learner who believes that every challenge is a new chance to level up <br/>
 <a href="https://drive.google.com/file/d/10LbFN8kknMzNFwX67Z1qgIdPjgEfcaFY/view?usp=sharing" >(Resume)</a>
 <br></br>
 
