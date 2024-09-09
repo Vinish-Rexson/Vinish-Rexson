@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Vinish-Rexson.Vinish-Rexson" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Full+Stack+Developer!;Fluent+in+the+language+of+web;Knows+Python+inside+and+out;+Front+to+back,+I've+got+your+stack+😎;+Model+tuning+Master;+Creative+coder+with+a+passion+for+play;+Still+learning+more+to+play+😁;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4500&lines=Full+Stack+Developer!;+Fluent+in+web,+I+code+with+ease;+Python’s+my+game,+I+ace+it+with+breeze;+Front+to+back,+I’ve+mastered+the+stack+😎;+Model-tuning+magic,+no+skills+I+lack;+Creative+coder,+full+of+flair;+learning+and+growing,+always+prepared!+😁;" />
 </h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+
 
 
 <img align="right" height="250px" width="450px" alt="GIF" src="https://github.com/user-attachments/assets/24bdd6b9-a9b7-4539-a0af-8a5bf5af36dc" />
@@ -28,9 +28,13 @@
 
 <h3 align="center"> Connect With Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" align="center" height="50px" width="50px" /></h4>
 <p align="center">
-<a  href="https://www.linkedin.com/in/yash-punmiya-27a6a8296/"  target="_blank"><img  src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"  alt="yash punmiya" height="50px" width="50px" /></a>
-<a  href="mailto: yyash7379@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="yyash7379@gmail.com"/></a>
-<a  href="https://www.instagram.com/team.4i"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="team.4i"/></a>
+<a  href="https://www.linkedin.com/in/vinish-rexson-4839bb292/" target="_blank"><img src="https://github.com/user-attachments/assets/0864804c-3b31-4943-88e2-409607b2c356" alt="vinish rexson" height="50px" width="50px" /></a>
+<a href="mailto:vinishrexson2005@gmail.com">
+  <img src="https://github.com/user-attachments/assets/8ade50bb-6f8c-4cf9-b763-5959bc09269e" 
+       alt="Email me at vinishrexson2005@gmail.com" 
+       style="width: 50px; height: 50px;" />
+</a>
+<a  href="https://www.instagram.com/vinishrexson/" target="_blank"><img src="https://github.com/user-attachments/assets/5aad5b8a-2248-45e8-8aff-ca42628d6f88" style="width: 50px; height: 50px;" alt="team.4i"/></a>
 
 
 
