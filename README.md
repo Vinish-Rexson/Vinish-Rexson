@@ -27,8 +27,10 @@
 ##
 
 <div align="center">
-  <img src="https://github.com/Vinish-Rexson/stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Overview - Dark Mode" loading="lazy" width="400">
-  <img src="https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages - Dark Mode" loading="lazy" width="400">
+  <img src="https://github.com/Vinish-Rexson/stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Overview - Dark Mode">
+  <img src="https://github.com/Vinish-Rexson/stats/blob/master/generated/overview.svg#gh-light-mode-only" alt="Overview - Light Mode">
+  <img src="https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages - Dark Mode">
+  <img src="https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-light-mode-only" alt="Languages - Light Mode">
 </div>
 
 ##
