@@ -14,7 +14,7 @@
 • Proud winner of Webathon 2024 🏆 <br/>
 • Actively seeking opportunities to learn, grow, and collaborate on innovative ideas <br/>
 • Lifelong learner who believes that every challenge is a new chance to level up <br/>
-<a href="https://drive.google.com/file/d/19LqtuFsKtw8kPdUq6xqO9hcFQvd7pFf3/view?usp=sharing" >(Resume)</a>
+<a href="https://drive.google.com/file/d/19LqtuFsKtw8kPdUq6xqO9hcFQvd7pFf3/view?usp=sharing" target="_blank" >(Resume)</a>
 <br></br>
 
 <h1> Tech Stack <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40px" width="40px" /> </h1>
@@ -26,7 +26,7 @@
 ![](https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
-<h3 align="center"> Connect With Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" align="center" height="50px" width="50px" /></h4>
+<h3 align="center"> Connect With Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" target="_blank" alt="Folded Hands Light Skin Tone" align="center" height="50px" width="50px" /></h4>
 <p align="center">
 <a  href="https://www.linkedin.com/in/vinish-rexson-4839bb292/" target="_blank"><img src="https://github.com/user-attachments/assets/0864804c-3b31-4943-88e2-409607b2c356" alt="vinish rexson" height="50px" width="50px" /></a>
 <a href="mailto:vinishrexson2005@gmail.com">
