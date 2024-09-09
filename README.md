@@ -14,7 +14,7 @@
 • Proud winner of Webathon 2024 🏆 <br/>
 • Actively seeking opportunities to learn, grow, and collaborate on innovative ideas <br/>
 • Lifelong learner who believes that every challenge is a new chance to level up <br/>
-<a href="https://drive.google.com/file/d/10LbFN8kknMzNFwX67Z1qgIdPjgEfcaFY/view?usp=sharing" >(Resume)</a>
+<a href="https://drive.google.com/file/d/19LqtuFsKtw8kPdUq6xqO9hcFQvd7pFf3/view?usp=sharing" >(Resume)</a>
 <br></br>
 
 <h1> Tech Stack <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="40px" width="40px" /> </h1>
