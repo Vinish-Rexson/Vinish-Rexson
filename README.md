@@ -11,12 +11,18 @@
 
 <img align="right" height="250px" width="450px" alt="GIF" src="https://github.com/user-attachments/assets/24bdd6b9-a9b7-4539-a0af-8a5bf5af36dc" />
 <h3 align="left"> Hey, I'm Vinish Rexson! <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40px" width="40px" /></h4> 
-• Computer Engineering student @ Fr. CRCE, with a passion for creating impactful web solutions <br/>
-• Currently building some cool web projects that push the boundaries of modern development <br/>
+• Computer Engineering student @ Fr. CRCE, passionate about impactful web solutions. <br/>
+• Building exciting web projects that push development boundaries. <br/>
 • Proud winner of Webathon 2024 🏆 <br/>
-• Actively seeking opportunities to learn, grow, and collaborate on innovative ideas <br/>
-• Lifelong learner who believes that every challenge is a new chance to level up <br/>
-<a href="https://drive.google.com/file/d/19LqtuFsKtw8kPdUq6xqO9hcFQvd7pFf3/view?usp=sharing" target="_blank" >(Resume)</a>
+• Always on the lookout for learning, growth, and collaboration opportunities. <br/>
+• Lifelong learner ready to tackle new challenges and level up! <br/>
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 💼 &nbsp; For more Professional details visit my <a href="https://drive.google.com/file/d/19LqtuFsKtw8kPdUq6xqO9hcFQvd7pFf3/view?usp=sharing" target="_blank" >Resume</a>
 
 ##
 
