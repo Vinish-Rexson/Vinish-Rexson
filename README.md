@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Full+Stack+Developer!;Fluent+in+the+language+of+web;Knows+Python+inside+and+out;+Front+to+back,+I've+got+your+stack+😎;+Model+tuning+Master;+Creative+coder+with+a+passion+for+play;+Still+learning+more+to+play+😁;" />
 </h1>
 
-<img align="right" height="250px" width="425px" alt="GIF" src="https://github.com/user-attachments/assets/24bdd6b9-a9b7-4539-a0af-8a5bf5af36dc" />
+<img align="right" height="250px" width="400px" alt="GIF" src="https://github.com/user-attachments/assets/24bdd6b9-a9b7-4539-a0af-8a5bf5af36dc" />
 <h3 align="left"> Hey, I'm Vinish Rexson! <img align="center" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40px" width="40px" /></h4> 
 • Computer Engineering student @ Fr. CRCE, with a passion for creating impactful web solutions <br/>
 • Currently building some cool web projects that push the boundaries of modern development <br/>
