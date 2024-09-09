@@ -28,6 +28,47 @@
 <a  href="mailto: yyash7379@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="yyash7379@gmail.com"/></a>
 <a  href="https://www.instagram.com/team.4i"  target="_blank"><img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"  alt="team.4i"/></a>
 
+## 🚧 Projects Under Construction 🚧
+
+<!-- GIF Banner on the Right -->
+<img align="right" height="200px" width="350px" alt="Under Construction" src="https://sismo.app/wp-content/uploads/2019/02/under-construction-gif-11.gif" />
+
+<!-- Text Content on the Left -->
+### Projects I'm Currently Working On
+
+Here are some exciting projects currently under development. Stay tuned for updates!
+
+1. **Ninja Adventure Game 🥷🎮**
+   - **Description**: A 2D ninja-themed platformer with wall jumping, shooting, and crawling mechanics.
+   - **Progress**: ![](https://geps.dev/progress/50)
+   - **Features Being Developed**:
+     - [x] Jumping and crawling mechanics
+     - [x] Enemy AI and shooting
+     - [ ] Multiplayer mode
+     - [ ] Boss fight implementation
+   - **Expected Completion**: `November 2024`
+
+2. **Online Library Management System 📚💻**
+   - **Description**: A Java-based project to manage books, users, and libraries in an online system.
+   - **Progress**: ![](https://geps.dev/progress/70)
+   - **Features Being Developed**:
+     - [x] Book catalog and search
+     - [ ] User authentication
+     - [ ] Admin dashboard
+     - [ ] Report generation
+   - **Expected Completion**: `October 2024`
+
+3. **Time-Bending Preamble Game ⏳🧩**
+   - **Description**: Isometric puzzle game where players manipulate time to solve complex puzzles.
+   - **Progress**: ![](https://geps.dev/progress/30)
+   - **Features Being Developed**:
+     - [x] Basic puzzle mechanics
+     - [ ] Time-bending feature
+     - [ ] Additional levels and challenges
+   - **Expected Completion**: `TBA`
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinish-Rexson&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
