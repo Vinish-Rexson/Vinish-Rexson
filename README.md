@@ -23,7 +23,7 @@
 ![](https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/Vinish-Rexson/stats/blob/master/generated/languages.svg#gh-light-mode-only)
 
-<h3 align="center"> Connect With Me: <img align="center" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" height="60px" width="120px" /></h4>
+<h3 align="center"> Connect With Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" align="center" src="" height="50px" width="50px" /></h4>
 <p align="center">
 <a  href="https://www.linkedin.com/in/yash-punmiya-27a6a8296/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="yash punmiya"/></a>
 <a  href="mailto: yyash7379@gmail.com"  target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="yyash7379@gmail.com"/></a>
